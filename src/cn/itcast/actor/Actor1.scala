@@ -3,7 +3,7 @@ package cn.itcast.actor
 import scala.actors.Actor
 
 /**
-  * create by zyiming.
+  * create by zyiming. 20181105
   */
 object Actor1 extends Actor{
   println("构造函数执行了")

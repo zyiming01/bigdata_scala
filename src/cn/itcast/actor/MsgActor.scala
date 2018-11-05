@@ -3,7 +3,7 @@ package cn.itcast.actor
 import scala.actors.Actor
 
 /**
-  * create by zyiming.
+  * create by zyiming.就看见
   */
 case class SyncMessage(id: Int,msg: String) //同步消息
 case class AsyncMessage(id: Int,msg: String) //异步消息
