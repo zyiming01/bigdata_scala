@@ -1,15 +1,2 @@
-*.class
-*.log
-
-# Scala-IDE specific
-.scala_dependencies
-.worksheet
-
-# IntelliJ IDEA
+### IntelliJ IDEA ###
 .idea/
-.idea_modules/
-out/
-*.iml
-
-# Odd Mac Stuff
-*.DS_Store
