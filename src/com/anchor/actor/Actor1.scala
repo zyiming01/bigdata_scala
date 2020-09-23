@@ -5,6 +5,7 @@ import scala.actors.Actor
 /**
   * create by zyiming. 20181105
   * 验证贮藏（git stash）
+  * 解决Github每次提交都要输入用户名和密码
   */
 object Actor1 extends Actor{
   println("构造函数执行了")
