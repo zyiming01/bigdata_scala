@@ -4,6 +4,7 @@ import scala.actors.Actor
 
 /**
   * create by zyiming. 20181105
+  * 验证贮藏（git stash）
   */
 object Actor1 extends Actor{
   println("构造函数执行了")
